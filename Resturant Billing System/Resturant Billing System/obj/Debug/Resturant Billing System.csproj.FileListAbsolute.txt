@@ -1,0 +1,18 @@
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.exe.config
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.exe
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.pdb
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.csprojResolveAssemblyReference.cache
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant_Billing_System.Form1.resources
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant_Billing_System.Properties.Resources.resources
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.csproj.GenerateResource.Cache
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.exe
+D:\University Data\6th Semester\SVaV\Project\4507 Abdul HananSVaV project\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.pdb
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.exe.config
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.exe
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.pdb
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.exe
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\bin\Debug\Resturant Billing System.pdb
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.csprojResolveAssemblyReference.cache
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant_Billing_System.Form1.resources
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant_Billing_System.Properties.Resources.resources
+D:\My Work\4507 Abdul Hanan Resturant Billing System\Resturant Billing System\Resturant Billing System\obj\Debug\Resturant Billing System.csproj.GenerateResource.Cache
